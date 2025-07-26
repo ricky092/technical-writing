@@ -165,19 +165,3 @@ awesome_project.run("input.txt")
 This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md).
 ```
 
----
-
-### **Tools to Enhance Your README**
-- **Markdown Editors**: [VS Code](https://code.visualstudio.com/) + [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) extension.  
-- **Live Preview**: [StackEdit](https://stackedit.io/), [Markdown Preview Plus](https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl).  
-- **Linting**: [MarkdownLint](https://github.com/DavidAnson/markdownlint).  
-
----
-
-### **Key Principles**
-- **Be Concise**: Avoid walls of text. Use bullet points and code blocks.  
-- **Be Visual**: Include screenshots, GIFs, or diagrams.  
-- **Keep Updated**: Outdated instructions frustrate users.  
-- **Link to Details**: Use `CONTRIBUTING.md`, `LICENSE.md`, or `docs/` for lengthy content.  
-
-A great README balances clarity, completeness, and brevity. Start with the core sections, then expand as needed! 🎉
